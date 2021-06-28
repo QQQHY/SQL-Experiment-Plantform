@@ -60,7 +60,7 @@
   + insert是记录了对数据库中的table所有的insert操作
   + segmentation记录了用户的提交记录，用来绘制分析图
   + E-R图如下
-    + <img src="E:\学堂\数据库\img\er_01.png" alt="er_01" style="zoom: 67%;" />
+    + <img src="./images/er_01.png" alt="er_01" style="zoom: 67%;" />
 + 用户题目数据库
   + 后台执行用户提交的数据库是Sqlite3，每个用户在备份数据库进行操作，不会互相影响，不过多占用资源，评测方式为评测语句的执行结果。
 
