@@ -69,11 +69,11 @@
 ***
 
 + 经验
-  + 架构使用
-  + 数据库的理解
+  + 使用B/S架构以及Vue、Flask作为前后端框架
+  + 使用SqlAlchemy作为后端ORM框架，连接数据库
   + 对原有平台问题的改进
-  + 技术文档撰写利器 *Read The Docs* 的使用
+  + 使用技术文档撰写利器 *Read The Docs*
 + Future Work
   + 复杂语句的实现
 + 课程改革建议
-  + 与python等实用工具的结合
+  + 与python等语言中实用工具的结合
