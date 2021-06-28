@@ -22,7 +22,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Robust CE'
+project = 'SQL Experiment Plantform'
 copyright = '2021, Hongyu Qiu'
 author = 'Hongyu Qiu'
 

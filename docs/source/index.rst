@@ -1,4 +1,4 @@
-.. Robust CE documentation master file, created by
+.. SQL-Experiment-Plantform master file, created by
    sphinx-quickstart on Fri Jun 25 21:57:17 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -8,7 +8,7 @@
    第15-20行是索引标题以及该标题下的三个索引和搜索链接。
 
 
-Robust Counterfactual Explanation
+SQL Experiment Plantform
 =====================================
 
 .. toctree:: 
@@ -16,8 +16,8 @@ Robust Counterfactual Explanation
    :caption: Contents:
 
    about
-   CE
-   Paper/index
+   SQL-Experiment-Plantform
+ 
 
 
 Indices and tables
