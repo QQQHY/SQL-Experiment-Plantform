@@ -23,7 +23,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SQL Experiment Plantform'
-copyright = '2021, Hongyu Qiu'
+copyright = '2021, Hongyu Qiu, Yulong Huang, Yifan Zhang'
 author = 'Hongyu Qiu, Yulong Huang, Yifan Zhang'
 
 # The full version, including alpha/beta/rc tags
