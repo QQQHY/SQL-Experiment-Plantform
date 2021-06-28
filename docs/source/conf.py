@@ -24,7 +24,7 @@
 
 project = 'SQL Experiment Plantform'
 copyright = '2021, Hongyu Qiu'
-author = 'Hongyu Qiu'
+author = 'Hongyu Qiu, Yulong Huang, Yifan Zhang'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
