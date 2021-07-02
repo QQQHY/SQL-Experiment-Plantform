@@ -1,10 +1,14 @@
 # 相关资料
 
+## VUE
+
+- [*VUE* Configuration Reference](https://cli.vuejs.org/config/)
+
 ## SQLAlchemy
 
 - [SQLAlchemy文档](https://www.sqlalchemy.org/)
 - [SQLAlchemy入门和进阶](https://zhuanlan.zhihu.com/p/27400862)
-- [Flask-SQLAlchemy的文档介绍](https://v.youku.com/v_show/id_XMzUwMzY3MDYwOA==.html?spm=a2h0c.8166622.PhoneSokuUgc_1.dtitle)
+- [视频：Flask-SQLAlchemy的文档介绍](https://v.youku.com/v_show/id_XMzUwMzY3MDYwOA==.html?spm=a2h0c.8166622.PhoneSokuUgc_1.dtitle)
 
 ## Read the Docs
 
