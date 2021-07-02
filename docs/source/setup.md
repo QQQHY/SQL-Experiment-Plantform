@@ -3,7 +3,8 @@
 ## Front
 
 ### Project setup
- npm install
+
+> npm install
 
 ### Compiles and hot-reloads for development
 
