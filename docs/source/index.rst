@@ -17,6 +17,7 @@ SQL Experiment Plantform
 
    about
    SQL-Experiment-Plantform
+   setup
    useful-link
  
 
